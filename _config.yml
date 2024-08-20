@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
   name             : "Junzhe Hu (胡骏哲)"
+  avatar           : "profile.png"
   #pronouns         : "he/him"  
   bio              : "MSR student @ CMU. Interested in Soft robotics, Biorobotics, and Surgical robotics."
   location         : "Pittsburgh (Pennsylvania)"
