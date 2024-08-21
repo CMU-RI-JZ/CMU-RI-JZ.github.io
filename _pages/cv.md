@@ -52,11 +52,6 @@ Skills
 * Proficient: MATLAB/Simulink, C++, C, Python, SolidWorks, UG NX12, Qt, LaTeX
 * Skilled: Comsol, Blender, SOFA, System workbench, Pytorch, Keil 5
 
-Publications
-======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
 
 Honors and Awards
 ======
