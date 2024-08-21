@@ -17,31 +17,31 @@ Education
 
 Work experience
 ======
-* 2024-2026: Research Assistant, Robotics Institute, Carnegie Mellon University
+* **2023-2024: Research Assistant, UC Center for Robotics Research, University of Cincinnati**
   * Project: Aerial-Aquatic Locomotion Robot with Variable Stiffness Propulsion Module
   * Designed and fabricated a novel Aerial-Aquatic Locomotion Robot with an aquatic mode, heating system, and aerial mode.
   * Used Low Melting Point Alloy to regulate the stiffness of the joints and optimized the dimension parameters of the propulsion module by modeling dynamics in the aquatic mode while retaining its flight capabilities.
   * Achieved maximum swimming speed of 97mm/s and propulsion efficiency of 34%.
 
-* 2023-2024: Research Assistant, UC Center for Robotics Research, University of Cincinnati
+* **2023-2024: Research Assistant, INRIA**
   * Project: Kinetostatic Modeling of Compliant Mechanisms via Reduced-mode Cosserat Rod Model
   * Downscaled the Cosserat Rod model for effective analysis of forces and deformations in plane beams.
   * Completed static modeling of various compliant mechanisms and demonstrated enhanced computational efficiency through FEM simulations in COMSOL.
 
-* 2023: Research Assistant, Biorob Lab, École Polytechnique Fédérale de Lausanne (EPFL)
+* **2023: Research Assistant, Biorob Lab, École Polytechnique Fédérale de Lausanne (EPFL)**
   * Project 1: Remote Control and Haptic Feedback in a 2 DOF Device for Thrombectomy Guidewire Navigation
   * Developed a control system for precise translation and rotation of guidewires, with an average error of 0.31%.
   * Built a multi-threaded communication system based on Qt to achieve a proportional control relationship between master and slave robots, with an average delay of 0.091s.
   * Project 2: Developed "TransMatch," a semi-supervised medical image segmentation framework addressing challenges in pseudo label noise and inconsistency in existing methods.
   * Validated the framework on Pancreas-CT and LA medical image datasets, achieving a 3.38% improvement in Dice Similarity Coefficient (DSC) over state-of-the-art methods.
 
-* 2021-2022: Research Assistant, Shenzhen Institute of Advanced Technology - CUHK Joint Precision Engineering Laboratory- Chinese Academy of Science
+* **2021-2022: Research Assistant, Shenzhen Institute of Advanced Technology - CUHK Joint Precision Engineering Laboratory- Chinese Academy of Science**
   * Project 1: Underwater Robotic with Flexible Passive Joint Paddle
   * Designed a multi-flexible articulated paddle as a propeller for swimming robots, optimizing the control parameters and structure to achieve a 3.3x faster swim than baseline.
   * Project 2: Sloth-inspired UAV Perching Climbing Grasping Mechanism
   * Developed a UAV perching mechanism based on the movement of sloths, achieving adaptable attachment to various objects with low power consumption.
 
-* 2021: Research Assistant, State Key Laboratory of Mechanical Transmissions, Chongqing University
+* **2021: Research Assistant, State Key Laboratory of Mechanical Transmissions, Chongqing University**
   * Project: Sloth-inspired UAV Perching Climbing Grasping Mechanism
   * Conducted simulation experiments and optimized the design of a UAV perching and climbing mechanism.
 
