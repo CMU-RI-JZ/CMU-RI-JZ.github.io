@@ -11,54 +11,61 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science in Robotics, Carnegie Mellon University, School of Computer Science, Robotics Institute, 2024-2026 (Expected)
+* Bachelor of Science in Mechanical Engineering, University of Cincinnati, College of Engineering & Applied Science, 2023-2024 (Cum Laude, Dean’s List)
+* Bachelor of Engineering in Mechanical Engineering and Automation, Chongqing University-University of Cincinnati Joint Co-op Institute, 2019-2023 (GPA: 3.84/4.0)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-2026: Research Assistant, Robotics Institute, Carnegie Mellon University
+  * Project: Aerial-Aquatic Locomotion Robot with Variable Stiffness Propulsion Module
+  * Designed and fabricated a novel Aerial-Aquatic Locomotion Robot with an aquatic mode, heating system, and aerial mode.
+  * Used Low Melting Point Alloy to regulate the stiffness of the joints and optimized the dimension parameters of the propulsion module by modeling dynamics in the aquatic mode while retaining its flight capabilities.
+  * Achieved maximum swimming speed of 97mm/s and propulsion efficiency of 34%.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-2024: Research Assistant, UC Center for Robotics Research, University of Cincinnati
+  * Project: Kinetostatic Modeling of Compliant Mechanisms via Reduced-mode Cosserat Rod Model
+  * Downscaled the Cosserat Rod model for effective analysis of forces and deformations in plane beams.
+  * Completed static modeling of various compliant mechanisms and demonstrated enhanced computational efficiency through FEM simulations in COMSOL.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2023: Research Assistant, Biorob Lab, École Polytechnique Fédérale de Lausanne (EPFL)
+  * Project 1: Remote Control and Haptic Feedback in a 2 DOF Device for Thrombectomy Guidewire Navigation
+  * Developed a control system for precise translation and rotation of guidewires, with an average error of 0.31%.
+  * Built a multi-threaded communication system based on Qt to achieve a proportional control relationship between master and slave robots, with an average delay of 0.091s.
+  * Project 2: Developed "TransMatch," a semi-supervised medical image segmentation framework addressing challenges in pseudo label noise and inconsistency in existing methods.
+  * Validated the framework on Pancreas-CT and LA medical image datasets, achieving a 3.38% improvement in Dice Similarity Coefficient (DSC) over state-of-the-art methods.
+
+* 2021-2022: Research Assistant, Shenzhen Institute of Advanced Technology - CUHK Joint Precision Engineering Laboratory- Chinese Academy of Science
+  * Project 1: Underwater Robotic with Flexible Passive Joint Paddle
+  * Designed a multi-flexible articulated paddle as a propeller for swimming robots, optimizing the control parameters and structure to achieve a 3.3x faster swim than baseline.
+  * Project 2: Sloth-inspired UAV Perching Climbing Grasping Mechanism
+  * Developed a UAV perching mechanism based on the movement of sloths, achieving adaptable attachment to various objects with low power consumption.
+
+* 2021: Research Assistant, State Key Laboratory of Mechanical Transmissions, Chongqing University
+  * Project: Sloth-inspired UAV Perching Climbing Grasping Mechanism
+  * Conducted simulation experiments and optimized the design of a UAV perching and climbing mechanism.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient: MATLAB/Simulink, C++, C, Python, SolidWorks, UG NX12, Qt, LaTeX
+* Skilled: Comsol, Blender, SOFA, System workbench, Pytorch, Keil 5
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Honors and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2024: Most Innovative Capstone Project Award, University of Cincinnati MechE Department
+* 2023: National Scholarship, Chongqing University
+* 2023: Student Pacesetter, Chongqing University
+* 2023: Gold Prize, China International College Students’ Innovation and Entrepreneurship Competition
+* 2022: Meritorious Winner, Mathematical Contest in Modeling (MCM/ICM)
+* 2021: 2nd Prize, China University Intelligent Robot Creative Competition
+* 2021: 2nd Prize, Mathematics Competition for College Students in Chongqing
+* 2021: Student Representative, Chongqing University
+* 2021: 2nd Prize, China University Robot Competition
+* 2020: President, Mechanical Engineers Association of Chongqing University
+
