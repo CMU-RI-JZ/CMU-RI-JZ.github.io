@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-10-01
 venue: 'Mechanism and Machine Theory'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/ssrn-4640715.pdf'
+paperurl: 'https://github.com/CMU-RI-JZ/CMU-RI-JZ.github.io/blob/master/files/ssrn-4640715.pdf'
 citation: 'Wu, Ke and Wang, Wei and Li, Xin and Hu, Junzhe and Chen, Pengyu and Cheng, Ran and Sun, Qidi and Liu, Lifu and Zhou, Luna and Xu, Xin and Zhang, Shucheng and Deng, Zichen and Chen, Rui and Zheng, Gang, Kinetostatic Modeling of Compliant Mechanisms Via Reduced-Mode Cosserat Rod Model. Available at SSRN: https://ssrn.com/abstract=4640715 or http://dx.doi.org/10.2139/ssrn.4640715'
 ---
 
