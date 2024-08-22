@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Junzhe Hu"
 author_profile: true
 redirect_from: 
   - /about/
