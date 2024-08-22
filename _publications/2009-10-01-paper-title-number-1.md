@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-01-22
 venue: 'Biomimetics'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/biomimetics-09-00056-v2.pdf'
+paperurl: 'https://github.com/CMU-RI-JZ/CMU-RI-JZ.github.io/blob/master/files/biomimetics-09-00056-v2.pdf'
 citation: 'Hu, J.; Xu, Y.; Chen, P.; Xie, F.; Li, H.; He, K. Design and Reality-Based Modeling Optimization of a Flexible Passive Joint Paddle for Swimming Robots. Biomimetics 2024, 9, 56. https://doi.org/10.3390/biomimetics9010056'
 ---
 
